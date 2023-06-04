@@ -1,5 +1,30 @@
 {
-  "tasks": [],
+  "tasks": [
+    {
+      "text": "Go to mart",
+      "day": "June 4, 10am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Meet friend",
+      "day": "June 4, 4pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "agagag",
+      "day": "agagagg",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "aggaga",
+      "day": "agagag",
+      "reminder": true,
+      "id": 4
+    }
+  ],
   "posts": [
     {
       "id": 1,
